@@ -1,4 +1,5 @@
-# vulembereGUI
+# VulembereGUI-GNDecoration
+
 Une librairie inspiré du GNDecoration https://github.com/Gleidson28/GNDecorator;  Des belle interfaces sous javaFx.
 
 /*
