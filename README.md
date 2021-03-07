@@ -1,6 +1,6 @@
 # VulembereGUI-GNDecoration
 
-Une librairie inspiré du GNDecoration https://github.com/Gleidson28/GNDecorator;  Des belle interfaces sous javaFx.
+Une librairie inspirée de GNDecoration https://github.com/Gleidson28/GNDecorator;  
 
 /*
  * To change this license header, choose License Headers in Project Properties.
